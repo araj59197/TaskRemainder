@@ -9,7 +9,7 @@
 
 **A modern, feature-rich task management application built with React**
 
-[Live Demo](#) | [Features](#-features) | [Installation](#-installation) | [Usage](#-usage)
+[Live Demo](https://araj59197.github.io/TaskRemainder/) | [Features](#-features) | [Installation](#-installation) | [Usage](#-usage)
 
 </div>
 
@@ -18,6 +18,12 @@
 ## 🌟 Overview
 
 **Task Remainder** is a professional-grade task management application that demonstrates advanced React concepts, modern CSS techniques, and exceptional UX design. Built from scratch with no external UI libraries, this project showcases clean code architecture and best practices in modern web development.
+
+### 🚀 Live Demo
+
+**👉 [Try it now!](https://araj59197.github.io/TaskRemainder/)**
+
+Experience all the features live, including dark mode, search, filters, and real-time statistics!
 
 ### ✨ What Makes This Special?
 
